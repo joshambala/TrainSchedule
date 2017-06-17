@@ -6,7 +6,7 @@ $(document).ready(function(){
 	    authDomain: "trainschedule-5cd9f.firebaseapp.com",
 	    databaseURL: "https://trainschedule-5cd9f.firebaseio.com",
 	    projectId: "trainschedule-5cd9f",
-	    storageBucket: "",
+	    storageBucket: "trainschedule-5cd9f.appspot.com",
 	    messagingSenderId: "82381063239"
   	};
 
