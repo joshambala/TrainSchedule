@@ -68,19 +68,4 @@ $(document).ready(function(){
 		return formattedData
 	}
 
-
-
-	// function calcTime(time_of_train, frequency_of_train){
-	// 	var now = new Date()
-
-	// 	var originalTime = new Date(time_of_train)
-	// 	console.log(originalTime)
-
-	// 	var difference = originalTime - now
-
-	// 	console.log(difference.getMinutes())
-	// }
-
-
-
 });
